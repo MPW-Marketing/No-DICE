@@ -1,0 +1,2615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DICE v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-10 17:30+0100\n"
+"PO-Revision-Date: 2011-03-10 17:30+0100\n"
+"Last-Translator: bringthepixel <bringthepixel@gmail.com>\n"
+"Language-Team: bringthepixel <bringthepixel@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\dice\\wp-content\\themes\\\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: dice\n"
+"X-Poedit-SearchPath-1: dice\\framework\n"
+"X-Poedit-SearchPath-2: dice\\framework\\functions\n"
+"X-Poedit-SearchPath-3: dice\\theme\n"
+"X-Poedit-SearchPath-4: dice\\theme\\parts\n"
+"X-Poedit-SearchPath-5: dice\\theme\\post-types\n"
+"X-Poedit-SearchPath-6: dice\\theme\\shortcodes\n"
+"X-Poedit-SearchPath-7: dice\\theme\\functions\n"
+"X-Poedit-SearchPath-8: dice\\theme\\widgets\n"
+
+#: dice/404.php:7
+msgid "Ooops..."
+msgstr ""
+
+#: dice/404.php:13
+msgid "This page was not found, page is missing or moved"
+msgstr ""
+
+#: dice/404.php:15
+msgid "Try one of the following:"
+msgstr ""
+
+#: dice/attachment.php:19
+#: dice/page-sidebar-left.php:45
+#: dice/page-sidebar-right.php:31
+msgid "Edit"
+msgstr ""
+
+#: dice/clients-c-2.php:18
+#: dice/clients-c-3.php:18
+#: dice/clients-c-4.php:18
+msgid "No results found."
+msgstr ""
+
+#: dice/comments.php:5
+#, php-format
+msgid "This %s is password protected. Enter the password to view any comments"
+msgstr ""
+
+#: dice/page-sidebar-left.php:36
+#: dice/page-sidebar-right.php:22
+msgid "Pages:"
+msgstr ""
+
+#: dice/search.php:11
+msgid "Search results"
+msgstr ""
+
+#: dice/search.php:12
+#, php-format
+msgid "Query: %s"
+msgstr ""
+
+#: dice/search.php:28
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: dice/searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: dice/framework/functions/btp_admin.php:45
+#, php-format
+msgid "%s Theme Options saved"
+msgstr ""
+
+#: dice/framework/functions/btp_admin.php:48
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: dice/framework/functions/filters.php:20
+msgid "Name"
+msgstr ""
+
+#: dice/framework/functions/filters.php:21
+#: dice/framework/functions/filters.php:30
+#: dice/framework/functions/filters.php:46
+msgid "(required)"
+msgstr ""
+
+#: dice/framework/functions/filters.php:29
+msgid "Email"
+msgstr ""
+
+#: dice/framework/functions/filters.php:36
+msgid "Website"
+msgstr ""
+
+#: dice/framework/functions/filters.php:46
+msgid "Comment"
+msgstr ""
+
+#: dice/framework/functions/filters.php:68
+#, php-format
+msgid "This %s is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: dice/framework/functions/helpers.php:341
+msgid "Is active?"
+msgstr ""
+
+#: dice/framework/functions/helpers.php:351
+msgid "URL"
+msgstr ""
+
+#: dice/framework/functions/helpers.php:360
+msgid "Label"
+msgstr ""
+
+#: dice/framework/functions/helpers.php:369
+msgid "Caption"
+msgstr ""
+
+#: dice/framework/functions/pagination.php:46
+msgid "Prev"
+msgstr ""
+
+#: dice/framework/functions/pagination.php:67
+msgid "Next"
+msgstr ""
+
+#: dice/theme/options.php:27
+#: dice/theme/options.php:352
+#: dice/theme/options.php:1695
+#: dice/theme/options.php:2074
+msgid "Main"
+msgstr ""
+
+#: dice/theme/options.php:33
+msgid "Logo source"
+msgstr ""
+
+#: dice/theme/options.php:34
+msgid "E.g. http://www.company.com/images/logo.png<br />You can <a href=\"http://dice.localhost/wp-admin/media-new.php\">use WordPress Media Library</a> to upload your image"
+msgstr ""
+
+#: dice/theme/options.php:41
+msgid "Favicon source"
+msgstr ""
+
+#: dice/theme/options.php:42
+msgid "E.g. http://www.company.com/images/favicon.ico<br />You can <a href=\"http://dice.localhost/wp-admin/media-new.php\">use WordPress Media Library</a> to upload your icon"
+msgstr ""
+
+#: dice/theme/options.php:49
+msgid "Apple touch icon source"
+msgstr ""
+
+#: dice/theme/options.php:50
+msgid "E.g. http://www.company.com/images/apple_touch.png<br />You can <a href=\"http://dice.localhost/wp-admin/media-new.php\">use WordPress Media Library</a> to upload your image"
+msgstr ""
+
+#: dice/theme/options.php:59
+msgid "Preheader - enable?"
+msgstr ""
+
+#: dice/theme/options.php:68
+msgid "Preheader sidebars layout"
+msgstr ""
+
+#: dice/theme/options.php:69
+#: dice/theme/options.php:96
+#: dice/theme/options.php:2056
+#: dice/theme/options.php:2474
+msgid "E.g. 4,4,4"
+msgstr ""
+
+#: dice/theme/options.php:78
+msgid "Search form - enable?"
+msgstr ""
+
+#: dice/theme/options.php:87
+msgid "Breadcrumbs - enable?"
+msgstr ""
+
+#: dice/theme/options.php:95
+msgid "Prefooter sidebars layout"
+msgstr ""
+
+#: dice/theme/options.php:104
+msgid "Footer text"
+msgstr ""
+
+#: dice/theme/options.php:105
+msgid "E.g. Copyright 2011 by MyCompany"
+msgstr ""
+
+#: dice/theme/options.php:112
+msgid "DICE slider"
+msgstr ""
+
+#: dice/theme/options.php:121
+#: dice/theme/functions/precontent.php:56
+msgid "Vertical segments"
+msgstr ""
+
+#: dice/theme/options.php:130
+#: dice/theme/functions/precontent.php:64
+msgid "Horizontal segments"
+msgstr ""
+
+#: dice/theme/options.php:139
+#: dice/theme/functions/precontent.php:72
+msgid "Depth"
+msgstr ""
+
+#: dice/theme/options.php:153
+#: dice/theme/options.php:301
+#: dice/theme/functions/precontent.php:82
+#: dice/theme/functions/precontent.php:165
+msgid "Transition"
+msgstr ""
+
+#: dice/theme/options.php:165
+#: dice/theme/functions/precontent.php:90
+msgid "Tween time"
+msgstr ""
+
+#: dice/theme/options.php:175
+#: dice/theme/functions/precontent.php:98
+msgid "Tween delay"
+msgstr ""
+
+#: dice/theme/options.php:186
+#: dice/theme/options.php:286
+#: dice/theme/options.php:321
+#: dice/theme/functions/precontent.php:108
+#: dice/theme/functions/precontent.php:183
+msgid "Easing"
+msgstr ""
+
+#: dice/theme/options.php:196
+#: dice/theme/options.php:331
+#: dice/theme/functions/precontent.php:116
+#: dice/theme/functions/precontent.php:191
+msgid "Timeout"
+msgstr ""
+
+#: dice/theme/options.php:206
+#: dice/theme/functions/precontent.php:124
+msgid "X distance multiply"
+msgstr ""
+
+#: dice/theme/options.php:218
+#: dice/theme/functions/precontent.php:132
+msgid "Y distance multiply"
+msgstr ""
+
+#: dice/theme/options.php:228
+#: dice/theme/functions/precontent.php:140
+msgid "Z distance"
+msgstr ""
+
+#: dice/theme/options.php:238
+msgid "Autoplay?"
+msgstr ""
+
+#: dice/theme/options.php:247
+#: dice/theme/options.php:341
+msgid "Pause on hover?"
+msgstr ""
+
+#: dice/theme/options.php:257
+msgid "Cube side color"
+msgstr ""
+
+#: dice/theme/options.php:267
+msgid "Kwicks slider"
+msgstr ""
+
+#: dice/theme/options.php:275
+#: dice/theme/options.php:310
+msgid "Transition speed"
+msgstr ""
+
+#: dice/theme/options.php:276
+#: dice/theme/options.php:311
+#: dice/theme/options.php:332
+msgid "Enter the number of seconds, e.g. 1.5"
+msgstr ""
+
+#: dice/theme/options.php:293
+msgid "Cycle slider"
+msgstr ""
+
+#: dice/theme/options.php:361
+msgid "Skin"
+msgstr ""
+
+#: dice/theme/options.php:370
+#: dice/theme/options.php:667
+msgid "Left"
+msgstr ""
+
+#: dice/theme/options.php:371
+#: dice/theme/options.php:424
+msgid "Center"
+msgstr ""
+
+#: dice/theme/options.php:372
+#: dice/theme/options.php:668
+msgid "Right"
+msgstr ""
+
+#: dice/theme/options.php:377
+msgid "Theme alignment"
+msgstr ""
+
+#: dice/theme/options.php:386
+msgid "Font replacement - enable?"
+msgstr ""
+
+#: dice/theme/options.php:396
+msgid "Font replacement"
+msgstr ""
+
+#: dice/theme/options.php:405
+msgid "Custom styles - enable?"
+msgstr ""
+
+#: dice/theme/options.php:415
+msgid "Preheader"
+msgstr ""
+
+#: dice/theme/options.php:421
+msgid "Left-screen"
+msgstr ""
+
+#: dice/theme/options.php:422
+msgid "Left-outside"
+msgstr ""
+
+#: dice/theme/options.php:423
+msgid "Left-inside"
+msgstr ""
+
+#: dice/theme/options.php:425
+msgid "Right-inside"
+msgstr ""
+
+#: dice/theme/options.php:426
+msgid "Right-outside"
+msgstr ""
+
+#: dice/theme/options.php:427
+msgid "Right-screen"
+msgstr ""
+
+#: dice/theme/options.php:432
+msgid "Toggle alignment"
+msgstr ""
+
+#: dice/theme/options.php:436
+msgid "Basics"
+msgstr ""
+
+#: dice/theme/options.php:442
+#: dice/theme/options.php:509
+#: dice/theme/options.php:545
+#: dice/theme/options.php:581
+#: dice/theme/options.php:723
+#: dice/theme/options.php:798
+#: dice/theme/options.php:831
+#: dice/theme/options.php:952
+#: dice/theme/options.php:1026
+#: dice/theme/options.php:1059
+#: dice/theme/options.php:1092
+#: dice/theme/options.php:1183
+#: dice/theme/options.php:1258
+#: dice/theme/options.php:1291
+#: dice/theme/options.php:1324
+#: dice/theme/options.php:1415
+#: dice/theme/options.php:1489
+#: dice/theme/options.php:1522
+#: dice/theme/options.php:1555
+#: dice/theme/options.php:1647
+msgid "Background color"
+msgstr ""
+
+#: dice/theme/options.php:451
+#: dice/theme/options.php:554
+msgid "Text Color"
+msgstr ""
+
+#: dice/theme/options.php:459
+#: dice/theme/options.php:492
+#: dice/theme/options.php:747
+#: dice/theme/options.php:814
+#: dice/theme/options.php:839
+#: dice/theme/options.php:976
+#: dice/theme/options.php:1009
+#: dice/theme/options.php:1208
+#: dice/theme/options.php:1241
+#: dice/theme/options.php:1439
+#: dice/theme/options.php:1472
+#: dice/theme/options.php:1671
+msgid "Link color"
+msgstr ""
+
+#: dice/theme/options.php:467
+#: dice/theme/options.php:499
+#: dice/theme/options.php:755
+#: dice/theme/options.php:822
+#: dice/theme/options.php:855
+#: dice/theme/options.php:984
+#: dice/theme/options.php:1016
+#: dice/theme/options.php:1216
+#: dice/theme/options.php:1249
+#: dice/theme/options.php:1447
+#: dice/theme/options.php:1479
+#: dice/theme/options.php:1679
+msgid "Link hover color"
+msgstr ""
+
+#: dice/theme/options.php:475
+#: dice/theme/options.php:763
+#: dice/theme/options.php:992
+#: dice/theme/options.php:1224
+#: dice/theme/options.php:1455
+msgid "Line color"
+msgstr ""
+
+#: dice/theme/options.php:478
+msgid "Meta"
+msgstr ""
+
+#: dice/theme/options.php:484
+#: dice/theme/options.php:518
+#: dice/theme/options.php:590
+#: dice/theme/options.php:739
+#: dice/theme/options.php:968
+#: dice/theme/options.php:1001
+#: dice/theme/options.php:1034
+#: dice/theme/options.php:1067
+#: dice/theme/options.php:1100
+#: dice/theme/options.php:1200
+#: dice/theme/options.php:1233
+#: dice/theme/options.php:1266
+#: dice/theme/options.php:1299
+#: dice/theme/options.php:1332
+#: dice/theme/options.php:1431
+#: dice/theme/options.php:1464
+#: dice/theme/options.php:1497
+#: dice/theme/options.php:1530
+#: dice/theme/options.php:1563
+#: dice/theme/options.php:1663
+msgid "Text color"
+msgstr ""
+
+#: dice/theme/options.php:503
+msgid "Primary"
+msgstr ""
+
+#: dice/theme/options.php:527
+#: dice/theme/options.php:563
+#: dice/theme/options.php:599
+#: dice/theme/options.php:847
+#: dice/theme/options.php:1042
+#: dice/theme/options.php:1075
+#: dice/theme/options.php:1108
+#: dice/theme/options.php:1274
+#: dice/theme/options.php:1307
+#: dice/theme/options.php:1340
+#: dice/theme/options.php:1505
+#: dice/theme/options.php:1538
+#: dice/theme/options.php:1571
+msgid "Hover background color"
+msgstr ""
+
+#: dice/theme/options.php:536
+#: dice/theme/options.php:572
+#: dice/theme/options.php:608
+#: dice/theme/options.php:1050
+#: dice/theme/options.php:1083
+#: dice/theme/options.php:1116
+#: dice/theme/options.php:1282
+#: dice/theme/options.php:1315
+#: dice/theme/options.php:1348
+#: dice/theme/options.php:1513
+#: dice/theme/options.php:1546
+#: dice/theme/options.php:1579
+msgid "Text hover color"
+msgstr ""
+
+#: dice/theme/options.php:539
+msgid "Secondary"
+msgstr ""
+
+#: dice/theme/options.php:575
+msgid "Tertiary"
+msgstr ""
+
+#: dice/theme/options.php:614
+msgid "Header"
+msgstr ""
+
+#: dice/theme/options.php:621
+#: dice/theme/options.php:868
+#: dice/theme/options.php:1128
+#: dice/theme/options.php:1360
+#: dice/theme/options.php:1592
+msgid "Boxed"
+msgstr ""
+
+#: dice/theme/options.php:622
+#: dice/theme/options.php:869
+#: dice/theme/options.php:1129
+#: dice/theme/options.php:1361
+#: dice/theme/options.php:1593
+msgid "Stretched"
+msgstr ""
+
+#: dice/theme/options.php:627
+#: dice/theme/options.php:874
+#: dice/theme/options.php:1134
+#: dice/theme/options.php:1366
+#: dice/theme/options.php:1598
+#: dice/theme/options.php:2055
+#: dice/theme/options.php:2065
+#: dice/theme/options.php:2473
+#: dice/theme/options.php:2483
+#: dice/theme/options.php:2607
+#: dice/theme/options.php:2950
+msgid "Layout"
+msgstr ""
+
+#: dice/theme/options.php:635
+msgid "Margin top"
+msgstr ""
+
+#: dice/theme/options.php:644
+#: dice/theme/options.php:882
+#: dice/theme/options.php:1142
+#: dice/theme/options.php:1374
+#: dice/theme/options.php:1606
+msgid "Border top width"
+msgstr ""
+
+#: dice/theme/options.php:652
+#: dice/theme/options.php:890
+#: dice/theme/options.php:1150
+#: dice/theme/options.php:1382
+#: dice/theme/options.php:1614
+msgid "Border top color"
+msgstr ""
+
+#: dice/theme/options.php:660
+msgid "Logo margin top"
+msgstr ""
+
+#: dice/theme/options.php:673
+msgid "Logo alignment"
+msgstr ""
+
+#: dice/theme/options.php:681
+msgid "Logo margin bottom"
+msgstr ""
+
+#: dice/theme/options.php:689
+#: dice/theme/options.php:906
+msgid "Padding bottom"
+msgstr ""
+
+#: dice/theme/options.php:697
+#: dice/theme/options.php:914
+#: dice/theme/options.php:1158
+#: dice/theme/options.php:1390
+#: dice/theme/options.php:1622
+msgid "Border bottom width"
+msgstr ""
+
+#: dice/theme/options.php:705
+#: dice/theme/options.php:922
+#: dice/theme/options.php:1166
+#: dice/theme/options.php:1398
+#: dice/theme/options.php:1630
+msgid "Border bottom color"
+msgstr ""
+
+#: dice/theme/options.php:714
+#: dice/theme/options.php:930
+#: dice/theme/options.php:1174
+#: dice/theme/options.php:1406
+#: dice/theme/options.php:1638
+msgid "Margin bottom"
+msgstr ""
+
+#: dice/theme/options.php:717
+#: dice/theme/options.php:946
+#: dice/theme/options.php:1177
+#: dice/theme/options.php:1409
+#: dice/theme/options.php:1641
+msgid "Basic Scheme"
+msgstr ""
+
+#: dice/theme/options.php:731
+#: dice/theme/options.php:806
+#: dice/theme/options.php:960
+#: dice/theme/options.php:1191
+#: dice/theme/options.php:1423
+#: dice/theme/options.php:1655
+msgid "Background opacity"
+msgstr ""
+
+#: dice/theme/options.php:767
+#: dice/theme/options.php:995
+#: dice/theme/options.php:1227
+#: dice/theme/options.php:1458
+msgid "Meta Scheme"
+msgstr ""
+
+#: dice/theme/options.php:773
+msgid "Meta color"
+msgstr ""
+
+#: dice/theme/options.php:781
+msgid "Meta link color"
+msgstr ""
+
+#: dice/theme/options.php:789
+msgid "Meta link hover color"
+msgstr ""
+
+#: dice/theme/options.php:792
+msgid "Menu Scheme"
+msgstr ""
+
+#: dice/theme/options.php:825
+msgid "Submenu Scheme"
+msgstr ""
+
+#: dice/theme/options.php:863
+msgid "Precontent"
+msgstr ""
+
+#: dice/theme/options.php:898
+msgid "Padding top"
+msgstr ""
+
+#: dice/theme/options.php:937
+msgid "Yes"
+msgstr ""
+
+#: dice/theme/options.php:938
+msgid "No"
+msgstr ""
+
+#: dice/theme/options.php:943
+msgid "Slider shadow - enable?"
+msgstr ""
+
+#: dice/theme/options.php:1020
+#: dice/theme/options.php:1252
+#: dice/theme/options.php:1483
+msgid "Primary Scheme"
+msgstr ""
+
+#: dice/theme/options.php:1053
+#: dice/theme/options.php:1285
+#: dice/theme/options.php:1516
+msgid "Secondary Scheme"
+msgstr ""
+
+#: dice/theme/options.php:1086
+#: dice/theme/options.php:1318
+#: dice/theme/options.php:1549
+msgid "Tertiary Scheme"
+msgstr ""
+
+#: dice/theme/options.php:1123
+msgid "Content"
+msgstr ""
+
+#: dice/theme/options.php:1355
+msgid "Prefooter"
+msgstr ""
+
+#: dice/theme/options.php:1587
+msgid "Footer"
+msgstr ""
+
+#: dice/theme/options.php:1713
+#: dice/theme/options.php:2124
+#: dice/theme/options.php:2494
+#: dice/theme/options.php:2621
+msgid "Index"
+msgstr ""
+
+#: dice/theme/options.php:1721
+msgid "Works page"
+msgstr ""
+
+#: dice/theme/options.php:1731
+#: dice/theme/options.php:1846
+msgid "Works per page"
+msgstr ""
+
+#: dice/theme/options.php:1740
+#: dice/theme/options.php:1855
+#: dice/theme/options.php:1970
+#: dice/theme/options.php:1993
+#: dice/theme/options.php:2150
+#: dice/theme/options.php:2267
+#: dice/theme/options.php:2392
+#: dice/theme/options.php:2584
+#: dice/theme/options.php:2647
+#: dice/theme/options.php:2763
+#: dice/theme/options.php:2880
+msgid "Hide title?"
+msgstr ""
+
+#: dice/theme/options.php:1749
+#: dice/theme/options.php:1864
+#: dice/theme/options.php:2160
+#: dice/theme/options.php:2277
+#: dice/theme/options.php:2656
+#: dice/theme/options.php:2772
+msgid "Hide thumb?"
+msgstr ""
+
+#: dice/theme/options.php:1758
+#: dice/theme/options.php:1873
+#: dice/theme/options.php:2002
+#: dice/theme/options.php:2665
+#: dice/theme/options.php:2781
+#: dice/theme/options.php:2904
+msgid "Hide date?"
+msgstr ""
+
+#: dice/theme/options.php:1767
+#: dice/theme/options.php:1882
+#: dice/theme/options.php:2011
+#: dice/theme/options.php:2426
+#: dice/theme/options.php:2683
+#: dice/theme/options.php:2799
+#: dice/theme/options.php:2923
+msgid "Hide comments link?"
+msgstr ""
+
+#: dice/theme/options.php:1776
+#: dice/theme/options.php:1891
+#: dice/theme/options.php:2020
+#: dice/theme/options.php:2189
+#: dice/theme/options.php:2306
+#: dice/theme/options.php:2436
+#: dice/theme/options.php:2692
+#: dice/theme/options.php:2808
+#: dice/theme/options.php:2932
+msgid "Hide categories?"
+msgstr ""
+
+#: dice/theme/options.php:1785
+#: dice/theme/options.php:1900
+#: dice/theme/options.php:2029
+#: dice/theme/options.php:2198
+#: dice/theme/options.php:2315
+#: dice/theme/options.php:2445
+#: dice/theme/options.php:2701
+#: dice/theme/options.php:2817
+#: dice/theme/options.php:2941
+msgid "Hide tags?"
+msgstr ""
+
+#: dice/theme/options.php:1794
+#: dice/theme/options.php:1909
+#: dice/theme/options.php:2207
+#: dice/theme/options.php:2324
+#: dice/theme/options.php:2710
+#: dice/theme/options.php:2826
+msgid "Hide summary?"
+msgstr ""
+
+#: dice/theme/options.php:1803
+#: dice/theme/options.php:1918
+#: dice/theme/options.php:2217
+#: dice/theme/options.php:2334
+#: dice/theme/options.php:2719
+#: dice/theme/options.php:2835
+msgid "Hide primary button?"
+msgstr ""
+
+#: dice/theme/options.php:1812
+#: dice/theme/options.php:1927
+#: dice/theme/options.php:2038
+#: dice/theme/options.php:2226
+#: dice/theme/options.php:2343
+#: dice/theme/options.php:2455
+msgid "Hide secondary button?"
+msgstr ""
+
+#: dice/theme/options.php:1821
+#: dice/theme/options.php:1936
+#: dice/theme/options.php:2047
+#: dice/theme/options.php:2235
+#: dice/theme/options.php:2352
+#: dice/theme/options.php:2464
+msgid "Hide tertiary button?"
+msgstr ""
+
+#: dice/theme/options.php:1829
+#: dice/theme/options.php:2241
+#: dice/theme/options.php:2737
+msgid "Archive"
+msgstr ""
+
+#: dice/theme/options.php:1837
+#: dice/theme/options.php:1951
+#: dice/theme/options.php:2249
+#: dice/theme/options.php:2373
+#: dice/theme/options.php:2565
+#: dice/theme/options.php:2629
+#: dice/theme/options.php:2745
+#: dice/theme/options.php:2861
+msgid "Template"
+msgstr ""
+
+#: dice/theme/options.php:1943
+#: dice/theme/options.php:2364
+#: dice/theme/options.php:2557
+#: dice/theme/options.php:2852
+msgid "Single"
+msgstr ""
+
+#: dice/theme/options.php:1961
+#: dice/theme/options.php:2383
+#: dice/theme/options.php:2575
+#: dice/theme/options.php:2729
+#: dice/theme/options.php:2845
+#: dice/theme/options.php:2871
+msgid "Primary sidebar"
+msgstr ""
+
+#: dice/theme/options.php:1976
+#: dice/theme/options.php:2399
+#: dice/theme/options.php:2591
+#: dice/theme/options.php:2887
+#: dice/theme/functions/tools.php:639
+msgid "None"
+msgstr ""
+
+#: dice/theme/options.php:1977
+#: dice/theme/options.php:2400
+#: dice/theme/options.php:2592
+#: dice/theme/options.php:2888
+msgid "Featured asset"
+msgstr ""
+
+#: dice/theme/options.php:1978
+#: dice/theme/options.php:2401
+#: dice/theme/options.php:2593
+#: dice/theme/options.php:2889
+msgid "Attachments: Cycle Slider"
+msgstr ""
+
+#: dice/theme/options.php:1984
+#: dice/theme/options.php:2407
+#: dice/theme/options.php:2599
+#: dice/theme/options.php:2895
+msgid "Media box"
+msgstr ""
+
+#: dice/theme/options.php:2050
+msgid "After work area - full width templates"
+msgstr ""
+
+#: dice/theme/options.php:2060
+msgid "After work area - templates with sidebar"
+msgstr ""
+
+#: dice/theme/options.php:2066
+#: dice/theme/options.php:2484
+#: dice/theme/options.php:2608
+#: dice/theme/options.php:2951
+msgid "E.g. 4,4"
+msgstr ""
+
+#: dice/theme/options.php:2081
+msgid "Price prefix"
+msgstr ""
+
+#: dice/theme/options.php:2090
+msgid "Price thousands separator"
+msgstr ""
+
+#: dice/theme/options.php:2099
+msgid "Price decimal point"
+msgstr ""
+
+#: dice/theme/options.php:2108
+msgid "Price decimal precision"
+msgstr ""
+
+#: dice/theme/options.php:2117
+msgid "Price suffix"
+msgstr ""
+
+#: dice/theme/options.php:2132
+msgid "Products page"
+msgstr ""
+
+#: dice/theme/options.php:2141
+#: dice/theme/options.php:2258
+msgid "Products per page"
+msgstr ""
+
+#: dice/theme/options.php:2170
+#: dice/theme/options.php:2287
+#: dice/theme/options.php:2416
+msgid "Hide price?"
+msgstr ""
+
+#: dice/theme/options.php:2180
+#: dice/theme/options.php:2297
+msgid "Hide comments_link?"
+msgstr ""
+
+#: dice/theme/options.php:2468
+msgid "After product area - full width templates"
+msgstr ""
+
+#: dice/theme/options.php:2478
+msgid "After product area - templates with sidebar"
+msgstr ""
+
+#: dice/theme/options.php:2502
+msgid "Clients page"
+msgstr ""
+
+#: dice/theme/options.php:2511
+msgid "Clients per page"
+msgstr ""
+
+#: dice/theme/options.php:2520
+msgid "Hide title"
+msgstr ""
+
+#: dice/theme/options.php:2530
+msgid "Hide thumb"
+msgstr ""
+
+#: dice/theme/options.php:2540
+msgid "Hide summary"
+msgstr ""
+
+#: dice/theme/options.php:2550
+msgid "Hide primary button"
+msgstr ""
+
+#: dice/theme/options.php:2602
+msgid "After client area - templates with sidebar"
+msgstr ""
+
+#: dice/theme/options.php:2638
+#: dice/theme/options.php:2754
+msgid "Posts per page"
+msgstr ""
+
+#: dice/theme/options.php:2674
+#: dice/theme/options.php:2790
+#: dice/theme/options.php:2914
+msgid "Hide author?"
+msgstr ""
+
+#: dice/theme/options.php:2945
+msgid "After post area - templates with sidebar"
+msgstr ""
+
+#: dice/theme/options.php:2959
+msgid "Sidebars"
+msgstr ""
+
+#: dice/theme/options.php:2967
+msgid "Manage sidebars"
+msgstr ""
+
+#: dice/theme/options.php:2968
+msgid "Each sidebar name on a new line"
+msgstr ""
+
+#: dice/theme/options.php:2973
+#: dice/theme/options.php:2987
+msgid "Tracking code"
+msgstr ""
+
+#: dice/theme/options.php:2980
+msgid "Tracking code - enable?"
+msgstr ""
+
+#: dice/theme/options.php:2997
+msgid "General"
+msgstr ""
+
+#: dice/theme/options.php:3001
+msgid "Style"
+msgstr ""
+
+#: dice/theme/options.php:3005
+msgid "Works"
+msgstr ""
+
+#: dice/theme/options.php:3009
+msgid "Products"
+msgstr ""
+
+#: dice/theme/options.php:3013
+msgid "Clients"
+msgstr ""
+
+#: dice/theme/options.php:3017
+msgid "Posts"
+msgstr ""
+
+#: dice/theme/options.php:3021
+msgid "Feeds"
+msgstr ""
+
+#: dice/theme/options.php:3025
+msgid "Miscellaneous"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:68
+msgid "Home"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:138
+#, php-format
+msgid "Archives by category: %s"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:145
+#, php-format
+msgid "Archives by tag: %s"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:251
+#, php-format
+msgid "Archives by author: %s"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:258
+msgid "404 - page not found"
+msgstr ""
+
+#: dice/theme/functions/breadcrumbs.php:283
+msgid "You are here: "
+msgstr ""
+
+#: dice/theme/functions/helpers.php:15
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: dice/theme/functions/helpers.php:19
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: dice/theme/functions/helpers.php:25
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: dice/theme/functions/helpers.php:27
+#: dice/theme/functions/helpers.php:43
+msgid "(Edit)"
+msgstr ""
+
+#: dice/theme/functions/helpers.php:43
+msgid "Pingback:"
+msgstr ""
+
+#: dice/theme/functions/helpers.php:998
+msgid "No image placeholder"
+msgstr ""
+
+#: dice/theme/functions/helpers.php:1219
+msgid "More"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:37
+msgid "Precontent displaying"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:47
+msgid "Slide Category"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:50
+msgid "DICE Slider"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:143
+msgid "Kwicks Slider"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:154
+msgid "Segments"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:157
+msgid "Cycle Slider"
+msgstr ""
+
+#: dice/theme/functions/precontent.php:173
+msgid "Speed"
+msgstr ""
+
+#: dice/theme/functions/tools.php:9
+msgid "Primary Navigation"
+msgstr ""
+
+#: dice/theme/functions/tools.php:10
+msgid "Footer Navigation"
+msgstr ""
+
+#: dice/theme/functions/tools.php:27
+#: dice/theme/functions/tools.php:30
+msgid "Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:29
+msgid "Relation Tags"
+msgstr ""
+
+#: dice/theme/functions/tools.php:31
+msgid "Search Relation Tags"
+msgstr ""
+
+#: dice/theme/functions/tools.php:32
+msgid "All Relation Tags"
+msgstr ""
+
+#: dice/theme/functions/tools.php:33
+msgid "Parent Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:34
+msgid "Parent Relation Tag:"
+msgstr ""
+
+#: dice/theme/functions/tools.php:35
+msgid "Edit Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:36
+msgid "Update Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:37
+msgid "Add New Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:38
+msgid "New Relation Tag"
+msgstr ""
+
+#: dice/theme/functions/tools.php:119
+msgid "FromTopLeft"
+msgstr ""
+
+#: dice/theme/functions/tools.php:120
+msgid "FromTop"
+msgstr ""
+
+#: dice/theme/functions/tools.php:121
+msgid "FromTopRight"
+msgstr ""
+
+#: dice/theme/functions/tools.php:122
+msgid "FromRight"
+msgstr ""
+
+#: dice/theme/functions/tools.php:123
+msgid "FromBottomRight"
+msgstr ""
+
+#: dice/theme/functions/tools.php:124
+msgid "FromBottom"
+msgstr ""
+
+#: dice/theme/functions/tools.php:125
+msgid "FromBottomLeft"
+msgstr ""
+
+#: dice/theme/functions/tools.php:126
+msgid "FromLeft"
+msgstr ""
+
+#: dice/theme/functions/tools.php:127
+msgid "FromTopTwist"
+msgstr ""
+
+#: dice/theme/functions/tools.php:136
+msgid "easeNone"
+msgstr ""
+
+#: dice/theme/functions/tools.php:137
+#: dice/theme/functions/tools.php:390
+#: dice/theme/functions/tools.php:473
+msgid "easeInQuad"
+msgstr ""
+
+#: dice/theme/functions/tools.php:138
+#: dice/theme/functions/tools.php:391
+#: dice/theme/functions/tools.php:474
+msgid "easeOutQuad"
+msgstr ""
+
+#: dice/theme/functions/tools.php:139
+#: dice/theme/functions/tools.php:392
+#: dice/theme/functions/tools.php:475
+msgid "easeInOutQuad"
+msgstr ""
+
+#: dice/theme/functions/tools.php:140
+#: dice/theme/functions/tools.php:393
+msgid "easeOutInQuad"
+msgstr ""
+
+#: dice/theme/functions/tools.php:141
+#: dice/theme/functions/tools.php:374
+#: dice/theme/functions/tools.php:476
+msgid "easeInCubic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:142
+#: dice/theme/functions/tools.php:375
+#: dice/theme/functions/tools.php:477
+msgid "easeOutCubic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:143
+#: dice/theme/functions/tools.php:376
+#: dice/theme/functions/tools.php:478
+msgid "easeInOutCubic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:144
+#: dice/theme/functions/tools.php:377
+msgid "easeOutInCubic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:145
+#: dice/theme/functions/tools.php:394
+#: dice/theme/functions/tools.php:479
+msgid "easeInQuart"
+msgstr ""
+
+#: dice/theme/functions/tools.php:146
+#: dice/theme/functions/tools.php:395
+#: dice/theme/functions/tools.php:480
+msgid "easeOutQuart"
+msgstr ""
+
+#: dice/theme/functions/tools.php:147
+#: dice/theme/functions/tools.php:396
+#: dice/theme/functions/tools.php:481
+msgid "easeInOutQuart"
+msgstr ""
+
+#: dice/theme/functions/tools.php:148
+#: dice/theme/functions/tools.php:397
+msgid "easeOutInQuart"
+msgstr ""
+
+#: dice/theme/functions/tools.php:149
+#: dice/theme/functions/tools.php:378
+#: dice/theme/functions/tools.php:482
+msgid "easeInQuint"
+msgstr ""
+
+#: dice/theme/functions/tools.php:150
+#: dice/theme/functions/tools.php:379
+#: dice/theme/functions/tools.php:483
+msgid "easeOutQuint"
+msgstr ""
+
+#: dice/theme/functions/tools.php:151
+#: dice/theme/functions/tools.php:380
+#: dice/theme/functions/tools.php:484
+msgid "easeInOutQuint"
+msgstr ""
+
+#: dice/theme/functions/tools.php:152
+#: dice/theme/functions/tools.php:381
+msgid "easeOutInQuint"
+msgstr ""
+
+#: dice/theme/functions/tools.php:153
+#: dice/theme/functions/tools.php:371
+#: dice/theme/functions/tools.php:485
+msgid "easeInSine"
+msgstr ""
+
+#: dice/theme/functions/tools.php:154
+#: dice/theme/functions/tools.php:372
+#: dice/theme/functions/tools.php:486
+msgid "easeOutSine"
+msgstr ""
+
+#: dice/theme/functions/tools.php:155
+#: dice/theme/functions/tools.php:373
+#: dice/theme/functions/tools.php:487
+msgid "easeInOutSine"
+msgstr ""
+
+#: dice/theme/functions/tools.php:156
+msgid "easeOutInSine"
+msgstr ""
+
+#: dice/theme/functions/tools.php:157
+#: dice/theme/functions/tools.php:382
+#: dice/theme/functions/tools.php:491
+msgid "easeInCirc"
+msgstr ""
+
+#: dice/theme/functions/tools.php:158
+#: dice/theme/functions/tools.php:383
+#: dice/theme/functions/tools.php:492
+msgid "easeOutCirc"
+msgstr ""
+
+#: dice/theme/functions/tools.php:159
+#: dice/theme/functions/tools.php:384
+#: dice/theme/functions/tools.php:493
+msgid "easeInOutCirc"
+msgstr ""
+
+#: dice/theme/functions/tools.php:160
+#: dice/theme/functions/tools.php:385
+msgid "easeOutInCirc"
+msgstr ""
+
+#: dice/theme/functions/tools.php:161
+#: dice/theme/functions/tools.php:398
+#: dice/theme/functions/tools.php:488
+msgid "easeInExpo"
+msgstr ""
+
+#: dice/theme/functions/tools.php:162
+#: dice/theme/functions/tools.php:399
+#: dice/theme/functions/tools.php:489
+msgid "easeOutExpo"
+msgstr ""
+
+#: dice/theme/functions/tools.php:163
+#: dice/theme/functions/tools.php:400
+#: dice/theme/functions/tools.php:490
+msgid "easeInOutExpo"
+msgstr ""
+
+#: dice/theme/functions/tools.php:164
+#: dice/theme/functions/tools.php:401
+msgid "easeOutInExpo"
+msgstr ""
+
+#: dice/theme/functions/tools.php:165
+#: dice/theme/functions/tools.php:402
+#: dice/theme/functions/tools.php:494
+msgid "easeInElastic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:166
+#: dice/theme/functions/tools.php:403
+#: dice/theme/functions/tools.php:495
+msgid "easeOutElastic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:167
+#: dice/theme/functions/tools.php:404
+#: dice/theme/functions/tools.php:496
+msgid "easeInOutElastic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:168
+#: dice/theme/functions/tools.php:405
+msgid "easeOutInElastic"
+msgstr ""
+
+#: dice/theme/functions/tools.php:169
+#: dice/theme/functions/tools.php:386
+#: dice/theme/functions/tools.php:497
+msgid "easeInBack"
+msgstr ""
+
+#: dice/theme/functions/tools.php:170
+#: dice/theme/functions/tools.php:387
+#: dice/theme/functions/tools.php:498
+msgid "easeOutBack"
+msgstr ""
+
+#: dice/theme/functions/tools.php:171
+#: dice/theme/functions/tools.php:388
+#: dice/theme/functions/tools.php:499
+msgid "easeInOutBack"
+msgstr ""
+
+#: dice/theme/functions/tools.php:172
+#: dice/theme/functions/tools.php:389
+msgid "easeOutInBack"
+msgstr ""
+
+#: dice/theme/functions/tools.php:173
+#: dice/theme/functions/tools.php:406
+#: dice/theme/functions/tools.php:500
+msgid "easeInBounce"
+msgstr ""
+
+#: dice/theme/functions/tools.php:174
+#: dice/theme/functions/tools.php:407
+#: dice/theme/functions/tools.php:501
+msgid "easeOutBounce"
+msgstr ""
+
+#: dice/theme/functions/tools.php:175
+#: dice/theme/functions/tools.php:408
+#: dice/theme/functions/tools.php:502
+msgid "easeInOutBounce"
+msgstr ""
+
+#: dice/theme/functions/tools.php:176
+#: dice/theme/functions/tools.php:409
+msgid "easeOutInBounce"
+msgstr ""
+
+#: dice/theme/functions/tools.php:370
+msgid "linear"
+msgstr ""
+
+#: dice/theme/functions/tools.php:437
+msgid "blindX"
+msgstr ""
+
+#: dice/theme/functions/tools.php:438
+msgid "blindY"
+msgstr ""
+
+#: dice/theme/functions/tools.php:439
+msgid "blindZ"
+msgstr ""
+
+#: dice/theme/functions/tools.php:440
+msgid "cover"
+msgstr ""
+
+#: dice/theme/functions/tools.php:441
+msgid "curtainX"
+msgstr ""
+
+#: dice/theme/functions/tools.php:442
+msgid "curtainY"
+msgstr ""
+
+#: dice/theme/functions/tools.php:443
+msgid "fade"
+msgstr ""
+
+#: dice/theme/functions/tools.php:444
+msgid "fadeZoom"
+msgstr ""
+
+#: dice/theme/functions/tools.php:445
+msgid "growX"
+msgstr ""
+
+#: dice/theme/functions/tools.php:446
+msgid "growY"
+msgstr ""
+
+#: dice/theme/functions/tools.php:447
+msgid "none"
+msgstr ""
+
+#: dice/theme/functions/tools.php:448
+msgid "scrollUp"
+msgstr ""
+
+#: dice/theme/functions/tools.php:449
+msgid "scrollDown"
+msgstr ""
+
+#: dice/theme/functions/tools.php:450
+msgid "scrollLeft"
+msgstr ""
+
+#: dice/theme/functions/tools.php:451
+msgid "scrollRight"
+msgstr ""
+
+#: dice/theme/functions/tools.php:452
+msgid "scrollHorz"
+msgstr ""
+
+#: dice/theme/functions/tools.php:453
+msgid "scrollVert"
+msgstr ""
+
+#: dice/theme/functions/tools.php:454
+msgid "shuffle"
+msgstr ""
+
+#: dice/theme/functions/tools.php:455
+msgid "slideX"
+msgstr ""
+
+#: dice/theme/functions/tools.php:456
+msgid "slideY"
+msgstr ""
+
+#: dice/theme/functions/tools.php:457
+msgid "toss"
+msgstr ""
+
+#: dice/theme/functions/tools.php:458
+msgid "turnUp"
+msgstr ""
+
+#: dice/theme/functions/tools.php:459
+msgid "turnDown"
+msgstr ""
+
+#: dice/theme/functions/tools.php:460
+msgid "turnLeft"
+msgstr ""
+
+#: dice/theme/functions/tools.php:461
+msgid "turnRight"
+msgstr ""
+
+#: dice/theme/functions/tools.php:462
+msgid "uncover"
+msgstr ""
+
+#: dice/theme/functions/tools.php:463
+msgid "wipe"
+msgstr ""
+
+#: dice/theme/functions/tools.php:464
+msgid "zoom"
+msgstr ""
+
+#: dice/theme/functions/tools.php:577
+msgid "Valley - Black"
+msgstr ""
+
+#: dice/theme/functions/tools.php:578
+msgid "Glass - Purple"
+msgstr ""
+
+#: dice/theme/functions/tools.php:579
+msgid "Minimal - Red"
+msgstr ""
+
+#: dice/theme/functions/tools.php:580
+msgid "Sky - Blue"
+msgstr ""
+
+#: dice/theme/functions/tools.php:589
+msgid "TitilliumText25L_300"
+msgstr ""
+
+#: dice/theme/functions/tools.php:590
+msgid "TitilliumText25L_400"
+msgstr ""
+
+#: dice/theme/functions/tools.php:628
+msgid "list-vertical"
+msgstr ""
+
+#: dice/theme/functions/tools.php:629
+msgid "list-horizontal"
+msgstr ""
+
+#: dice/theme/functions/tools.php:638
+msgid "Default"
+msgstr ""
+
+#: dice/theme/functions/tools.php:640
+msgid "Open in new window"
+msgstr ""
+
+#: dice/theme/functions/tools.php:641
+msgid "Open in lightbox"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:19
+msgid "Blog Archives by Category"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:22
+msgid "Blog Archives by Tag"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:34
+msgid "Blog Archives by Author"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:37
+msgid "Blog Archives by Day"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:40
+msgid "Blog Archives by Month"
+msgstr ""
+
+#: dice/theme/parts/content_header-posts.php:43
+msgid "Blog Archives by Year"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:9
+msgid "Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:10
+#: dice/theme/post-types/btp_client.php:11
+msgid "Add New Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:12
+msgid "Edit Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:13
+msgid "New Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:14
+msgid "View Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:15
+msgid "Search Client"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:16
+msgid "No Clients found"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:17
+msgid "No Clients found in Trash"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:49
+msgid "Primary asset"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:58
+msgid "Thumb linking"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:67
+msgid "Title linking"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:70
+msgid "Primary Button"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:85
+msgid "Linking"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:109
+msgid "Primary Sidebar"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:141
+msgid "Client Details"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:155
+msgid "Precontent Options"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:168
+msgid "Single Page Options"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:213
+msgid "c-1"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:214
+msgid "c-2"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:215
+msgid "c-3"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:225
+msgid "Sidebar on left"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:226
+msgid "Sidebar on right"
+msgstr ""
+
+#: dice/theme/post-types/btp_client.php:309
+msgid "Featured Image"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:9
+msgid "Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:10
+#: dice/theme/post-types/btp_product.php:11
+msgid "Add New Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:12
+msgid "Edit Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:13
+msgid "New Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:14
+msgid "View Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:15
+msgid "Search Product"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:16
+msgid "No Products found"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:17
+msgid "No Products found in Trash"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:32
+#: dice/theme/post-types/btp_product.php:35
+msgid "Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:34
+#: dice/theme/post-types/btp_product.php:793
+msgid "Product Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:36
+msgid "Search Product Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:37
+msgid "All Product Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:38
+msgid "Parent Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:39
+msgid "Parent Product Category:"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:40
+msgid "Edit Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:41
+msgid "Update Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:42
+msgid "Add New Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:43
+msgid "New Product Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:58
+#: dice/theme/post-types/btp_product.php:61
+msgid "Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:60
+#: dice/theme/post-types/btp_product.php:794
+msgid "Product Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:62
+msgid "Search Product Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:63
+msgid "All Product Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:64
+msgid "Parent Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:65
+msgid "Parent Product Tag:"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:66
+msgid "Edit Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:67
+msgid "Update Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:68
+msgid "Add New Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:69
+msgid "New Product Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:111
+msgid "Price"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:159
+#: dice/theme/post-types/btp_work.php:151
+msgid "Secondary Button"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:173
+#: dice/theme/post-types/btp_product.php:199
+#: dice/theme/post-types/btp_work.php:165
+#: dice/theme/post-types/btp_work.php:191
+msgid "Asset"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:185
+#: dice/theme/post-types/btp_work.php:177
+msgid "Tertiary Button"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:324
+msgid "Product Details"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:551
+#: dice/theme/post-types/btp_work.php:534
+msgid "Full-width 1"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:552
+#: dice/theme/post-types/btp_work.php:535
+msgid "Full-width 2"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:563
+#: dice/theme/post-types/btp_work.php:547
+#: dice/theme/post-types/page.php:177
+#: dice/theme/post-types/post.php:236
+msgid "c-4"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:564
+#: dice/theme/post-types/btp_work.php:548
+msgid "c-6"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:565
+#: dice/theme/post-types/btp_work.php:549
+#: dice/theme/post-types/page.php:175
+#: dice/theme/post-types/post.php:234
+msgid "list-c-1"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:566
+#: dice/theme/post-types/btp_work.php:550
+msgid "list-c-4"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:567
+#: dice/theme/post-types/btp_work.php:551
+msgid "list-c-6"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:568
+#: dice/theme/post-types/btp_work.php:552
+msgid "list-c-8"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:866
+#: dice/theme/post-types/btp_work.php:883
+#: dice/theme/post-types/post.php:503
+msgid "Leave a comment"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:867
+#: dice/theme/post-types/btp_work.php:884
+#: dice/theme/post-types/post.php:504
+msgid "1 Comment"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:868
+#: dice/theme/post-types/btp_work.php:885
+#: dice/theme/post-types/post.php:505
+msgid "% Comments"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:870
+#: dice/theme/post-types/btp_work.php:887
+#: dice/theme/post-types/post.php:507
+msgid "Comments are off"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:903
+#: dice/theme/post-types/btp_work.php:905
+#: dice/theme/post-types/post.php:540
+msgid "Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_product.php:920
+#: dice/theme/post-types/btp_work.php:922
+#: dice/theme/post-types/post.php:557
+msgid "Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:5
+#: dice/theme/post-types/btp_slide.php:7
+msgid "Slides"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:8
+msgid "Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:9
+#: dice/theme/post-types/btp_slide.php:10
+msgid "Add New Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:11
+msgid "Edit Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:12
+msgid "New Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:13
+msgid "View Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:14
+msgid "Search Slides"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:15
+msgid "No Slides found"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:16
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:34
+#: dice/theme/post-types/btp_slide.php:258
+msgid "Slide Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:36
+msgid "Search Slide Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:37
+msgid "All Slide Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:38
+msgid "Parent Slide Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:39
+msgid "Parent Slide Category:"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:40
+msgid "Edit Slide Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:41
+msgid "Update Slide Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:42
+msgid "Add New Slide Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:43
+msgid "New Slide Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:191
+msgid "Slide Details"
+msgstr ""
+
+#: dice/theme/post-types/btp_slide.php:204
+msgid "DICE Slide"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:9
+msgid "Work"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:10
+#: dice/theme/post-types/btp_work.php:11
+msgid "Add New Work"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:12
+msgid "Edit Work"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:13
+msgid "New Work"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:14
+msgid "View Work"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:15
+msgid "Search Works"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:16
+msgid "No Works found"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:17
+msgid "No Works found in Trash"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:33
+#: dice/theme/post-types/btp_work.php:36
+msgid "Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:35
+#: dice/theme/post-types/btp_work.php:780
+msgid "Work Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:37
+msgid "Search Work Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:38
+msgid "All Work Categories"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:39
+msgid "Parent Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:40
+msgid "Parent Work Category:"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:41
+msgid "Edit Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:42
+msgid "Update Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:43
+msgid "Add New Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:44
+msgid "New Work Category"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:59
+#: dice/theme/post-types/btp_work.php:62
+msgid "Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:61
+#: dice/theme/post-types/btp_work.php:781
+msgid "Work Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:63
+msgid "Search Work Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:64
+msgid "All Work Tags"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:65
+msgid "Parent Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:66
+msgid "Parent Work Tag:"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:67
+msgid "Edit Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:68
+msgid "Update Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:69
+msgid "Add New Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:70
+msgid "New Work Tag"
+msgstr ""
+
+#: dice/theme/post-types/btp_work.php:315
+msgid "Work Details"
+msgstr ""
+
+#: dice/theme/post-types/page.php:80
+msgid "Hide breadcrumbs"
+msgstr ""
+
+#: dice/theme/post-types/page.php:96
+msgid "Page intro"
+msgstr ""
+
+#: dice/theme/post-types/page.php:105
+msgid "Page Details"
+msgstr ""
+
+#: dice/theme/post-types/post.php:164
+msgid "Post Details"
+msgstr ""
+
+#: dice/theme/post-types/post.php:245
+msgid "c-8, sidebar on left"
+msgstr ""
+
+#: dice/theme/post-types/post.php:246
+msgid "c-8, sidebar on right"
+msgstr ""
+
+#: dice/theme/post-types/post.php:488
+msgid "by"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:26
+msgid "Website Contact Form"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:32
+msgid "We have received your email. Thank you"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:33
+msgid "Ooops, something has gone wrong"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:111
+msgid "Please correct the errors on this form."
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:118
+msgid "Please enter your name"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:127
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:133
+msgid "Message"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:134
+msgid "Please leave a message"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:141
+msgid "(just to check if you are human)"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:143
+msgid "Please enter a valid result"
+msgstr ""
+
+#: dice/theme/shortcodes/contact_form.php:154
+msgid "Submit"
+msgstr ""
+
+#: dice/theme/shortcodes/standard.php:66
+msgid "Top"
+msgstr ""
+
+#: dice/theme/widgets/about_author.php:12
+msgid "Author box"
+msgstr ""
+
+#: dice/theme/widgets/about_author.php:18
+msgid "BTP About Author"
+msgstr ""
+
+#: dice/theme/widgets/about_author.php:84
+msgid "About Author"
+msgstr ""
+
+#: dice/theme/widgets/about_author.php:89
+#: dice/theme/widgets/clients_widgets.php:97
+#: dice/theme/widgets/clients_widgets.php:238
+#: dice/theme/widgets/clients_widgets.php:383
+#: dice/theme/widgets/contact_form.php:86
+#: dice/theme/widgets/custom_pages.php:102
+#: dice/theme/widgets/feeds.php:96
+#: dice/theme/widgets/pages_widgets.php:99
+#: dice/theme/widgets/pages_widgets.php:246
+#: dice/theme/widgets/posts_widgets.php:115
+#: dice/theme/widgets/posts_widgets.php:291
+#: dice/theme/widgets/posts_widgets.php:461
+#: dice/theme/widgets/posts_widgets.php:636
+#: dice/theme/widgets/products_widgets.php:121
+#: dice/theme/widgets/products_widgets.php:304
+#: dice/theme/widgets/products_widgets.php:482
+#: dice/theme/widgets/products_widgets.php:663
+#: dice/theme/widgets/subpages.php:81
+#: dice/theme/widgets/twitter.php:71
+msgid "Title"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:12
+msgid "The most recent clients on your site"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:18
+msgid "BTP Recent Clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:84
+msgid "Recent clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:102
+#: dice/theme/widgets/clients_widgets.php:393
+#: dice/theme/widgets/custom_pages.php:112
+#: dice/theme/widgets/pages_widgets.php:256
+#: dice/theme/widgets/posts_widgets.php:125
+#: dice/theme/widgets/posts_widgets.php:466
+#: dice/theme/widgets/posts_widgets.php:646
+#: dice/theme/widgets/products_widgets.php:131
+#: dice/theme/widgets/products_widgets.php:487
+#: dice/theme/widgets/products_widgets.php:673
+#: dice/theme/widgets/twitter.php:81
+msgid "Maximum number of items"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:107
+#: dice/theme/widgets/clients_widgets.php:248
+#: dice/theme/widgets/clients_widgets.php:398
+#: dice/theme/widgets/custom_pages.php:117
+#: dice/theme/widgets/pages_widgets.php:109
+#: dice/theme/widgets/pages_widgets.php:261
+#: dice/theme/widgets/posts_widgets.php:130
+#: dice/theme/widgets/posts_widgets.php:301
+#: dice/theme/widgets/posts_widgets.php:471
+#: dice/theme/widgets/posts_widgets.php:651
+#: dice/theme/widgets/products_widgets.php:136
+#: dice/theme/widgets/products_widgets.php:314
+#: dice/theme/widgets/products_widgets.php:492
+#: dice/theme/widgets/products_widgets.php:678
+msgid "Maximum number of items per row"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:151
+msgid "Custom clients based on ids"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:157
+msgid "BTP Custom Clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:225
+msgid "Featured clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:243
+#: dice/theme/widgets/custom_pages.php:107
+#: dice/theme/widgets/pages_widgets.php:104
+#: dice/theme/widgets/posts_widgets.php:296
+#: dice/theme/widgets/products_widgets.php:309
+msgid "Ids"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:293
+msgid "Related clients based on relation tags"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:299
+msgid "BTP Related Clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:370
+msgid "Related clients"
+msgstr ""
+
+#: dice/theme/widgets/clients_widgets.php:388
+#: dice/theme/widgets/products_widgets.php:668
+msgid "Related post id"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:12
+msgid "Well, just a contact form"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:18
+msgid "BTP Contact Form"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:75
+msgid "Contact Form"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:91
+msgid "Recipient email"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:96
+msgid "Recipient name"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:101
+msgid "Subject"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:106
+msgid "Success text"
+msgstr ""
+
+#: dice/theme/widgets/contact_form.php:111
+msgid "Failure text"
+msgstr ""
+
+#: dice/theme/widgets/custom_pages.php:12
+#: dice/theme/widgets/pages_widgets.php:12
+msgid "Custom pages based on ids"
+msgstr ""
+
+#: dice/theme/widgets/custom_pages.php:18
+#: dice/theme/widgets/pages_widgets.php:18
+msgid "BTP Custom Pages"
+msgstr ""
+
+#: dice/theme/widgets/custom_pages.php:88
+#: dice/theme/widgets/pages_widgets.php:86
+msgid "Featured pages"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:12
+msgid "Display feeds defined in theme options"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:18
+msgid "BTP Feeds"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:85
+msgid "Stay tuned"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:101
+msgid "Include"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:106
+msgid "Exclude"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:125
+msgid "Hide icon"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:128
+msgid "Hide label"
+msgstr ""
+
+#: dice/theme/widgets/feeds.php:131
+msgid "Hide caption"
+msgstr ""
+
+#: dice/theme/widgets/pages_widgets.php:156
+msgid "Related pages based on relation tags"
+msgstr ""
+
+#: dice/theme/widgets/pages_widgets.php:162
+msgid "BTP Related Pages"
+msgstr ""
+
+#: dice/theme/widgets/pages_widgets.php:232
+msgid "Related pages"
+msgstr ""
+
+#: dice/theme/widgets/pages_widgets.php:251
+#: dice/theme/widgets/posts_widgets.php:641
+msgid "Related id"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:12
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:18
+msgid "BTP Recent Posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:96
+msgid "Recent posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:120
+msgid "Category ids"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:189
+msgid "Custom posts based on ids"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:195
+msgid "BTP Custom Posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:273
+msgid "Featured posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:361
+msgid "The most popular posts on your site based on comment count"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:367
+msgid "BTP Popular Posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:443
+msgid "Popular posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:531
+msgid "Related posts based on relation tags"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:537
+msgid "BTP Related Posts"
+msgstr ""
+
+#: dice/theme/widgets/posts_widgets.php:617
+msgid "Related posts"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:12
+msgid "The most recent products on your site"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:18
+msgid "BTP Recent Products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:101
+msgid "Recent products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:126
+msgid "Product category slug"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:198
+msgid "Custom products based on ids"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:204
+msgid "BTP Custom Products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:285
+msgid "Featured products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:376
+msgid "The most popular products on your site based on comment count"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:382
+msgid "BTP Popular Products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:463
+msgid "Popular products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:554
+msgid "Related products based on relation tags"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:560
+msgid "BTP Related Products"
+msgstr ""
+
+#: dice/theme/widgets/products_widgets.php:643
+msgid "Related products"
+msgstr ""
+
+#: dice/theme/widgets/subpages.php:12
+msgid "Display a list of subpages"
+msgstr ""
+
+#: dice/theme/widgets/subpages.php:18
+msgid "BTP Subpages"
+msgstr ""
+
+#: dice/theme/widgets/subpages.php:76
+msgid "Submenu"
+msgstr ""
+
+#: dice/theme/widgets/twitter.php:12
+msgid "Most recent tweets"
+msgstr ""
+
+#: dice/theme/widgets/twitter.php:18
+msgid "BTP Twitter"
+msgstr ""
+
+#: dice/theme/widgets/twitter.php:64
+msgid "Recent tweets"
+msgstr ""
+
+#: dice/theme/widgets/twitter.php:76
+msgid "Username"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:12
+msgid "The most recent works on your site"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:18
+msgid "BTP Recent Works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:99
+msgid "Recent works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:124
+msgid "Work category slug"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:196
+msgid "Custom works based on ids"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:202
+msgid "BTP Custom Works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:283
+msgid "Featured works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:375
+msgid "The most popular works on your site based on comment count"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:381
+msgid "BTP Popular Works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:460
+msgid "Popular works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:551
+msgid "Related works based on relation tags"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:557
+msgid "BTP Related Works"
+msgstr ""
+
+#: dice/theme/widgets/works_widgets.php:640
+msgid "Related works"
+msgstr ""
+
